@@ -2077,4 +2077,9 @@ footer {
     margin-bottom: 30px;
 }
 
+.stage-bg .navbar-brand {
+    position: relative;
+    right: auto;
+}
+
 }
